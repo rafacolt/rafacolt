@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Estou aprendendo Full-stack web developer na Udemy ensinado por Angela yu
-- 👯 Estou procurando colaborar com desenvolvimento de sites
-- 📫 Você pode me achar em: https://www.linkedin.com/in/rafael-silva3d/                                      
+- 👯 Estou procurando colaborar com desenvolvimento de sites                                      
 
 <div align="center">
   <a href="https://github.com/rafacolt">
